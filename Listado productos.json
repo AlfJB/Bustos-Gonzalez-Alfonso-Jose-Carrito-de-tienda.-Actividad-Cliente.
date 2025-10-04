@@ -1,0 +1,46 @@
+{
+"currency": "€",
+"products": [
+{
+"SKU": "0K3QOSOV4V",
+"title": "iFhone 13 Pro",
+"price": "938.99"
+},
+{
+"SKU": "TGD5XORY1L",
+"title": "Cargador",
+"price": "49.99"
+},
+
+{
+"SKU": "IOKW9BQ945",
+"title": "Moc super pro",
+"price": "9999.99"
+},
+{
+"SKU": "IOKW9BQ9G5",
+"title": "Teclado",
+"price": "159.99"
+},
+{
+"SKU": "IOKW9BQ9F3",
+"title": "Ratón",
+"price": "69.99"
+},
+{
+"SKU": "123W9BQ9F3",
+"title": "Moc boli",
+"price": "99.99"
+},
+{
+"SKU": "IOKW9AD5FG",
+"title": "Camiseta básica ",
+"price": "100.99"
+},
+{
+"SKU": "IOKW9BQAZ5",
+"title": "Pin frutal",
+"price": "35.00"
+}
+]
+}
